@@ -1,12 +1,18 @@
+# Build output
 bin/
 obj/
-.vs/
-.vscode/
 
+# Visual Studio
+.vs/
 *.user
 *.suo
 
-packages/
+# Logs
+*.log
+
+# Publish output
 publish/
 
-*.log
+# OS files
+.DS_Store
+Thumbs.db
