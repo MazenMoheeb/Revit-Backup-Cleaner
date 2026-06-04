@@ -115,7 +115,6 @@ With Size = 2.613 GB
 ```text
 src/
 docs/
-tests/
 README.md
 LICENSE
 ```
